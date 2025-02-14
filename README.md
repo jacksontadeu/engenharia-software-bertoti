@@ -7,7 +7,8 @@ Os termos "programação" e "engenharia de software" têm sido usados de forma i
  
 Ao contrário das profissões de engenharia mais estabelecidas, a teoria ou prática atual da engenharia de software não é tão rigorosa. Os engenheiros aeronáuticos devem seguir diretrizes e práticas rígidas, pois erros em seus cálculos podem causar danos reais; A programação, em geral, tradicionalmente não segue práticas tão rigorosas. Mas, à medida que o software se torna mais integrado em nossas vidas, devemos adotar e confiar em métodos de engenharia mais rigorosos. Esperamos que este livro ajude outras pessoas a ver um caminho para práticas de software mais confiáveis.
 
-Comentario:
+##Comentario:
+
 Talvez pensam que engenheiros de software nao criam coisas do mundo real com as outras engenharias por um dos pilares de pogramação orientada a ogjetos ser a abstratacao onde devemos abstrair coisas do mundo real para software onde da uma falsa impressao de os softwares nao serem reais.
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -27,6 +28,7 @@ Como uma organização precisará se adaptar à medida que evolui
 Compensações e custos
 Como uma organização toma decisões, com base nas lições de Tempo e Mudança e Escala e Crescimento
 
-Comentário:
+##Comentário:
+
 Acredito que o principio de ter um software robusto e valioso passe pelo que ele deve ter uma escalabilidade, uma boa manutenabilidade onde possa gerar menos custo de producao e manutencao;
 

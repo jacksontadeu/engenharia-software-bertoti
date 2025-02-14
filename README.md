@@ -12,7 +12,8 @@ Ao contrário das profissões de engenharia mais estabelecidas, a teoria ou prá
 Talvez pensam que engenheiros de software nao criam coisas do mundo real com as outras engenharias por um dos pilares de pogramação orientada a ogjetos ser a abstratacao onde devemos abstrair coisas do mundo real para software onde da uma falsa impressao de os softwares nao serem reais.
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________
-Programação ao longo do tempo
+# Programação ao longo do tempo
+
 Propomos que a "engenharia de software" engloba não apenas o ato de escrever código, mas todas as ferramentas e processos que uma organização usa para construir e manter esse código ao longo do tempo. Quais práticas uma organização de software pode introduzir para manter seu código valioso a longo prazo? Como os engenheiros podem tornar uma base de código mais sustentável e a própria disciplina de engenharia de software mais rigorosa? Não temos respostas fundamentais para essas perguntas, mas esperamos que a experiência coletiva do Google nas últimas duas décadas ilumine possíveis caminhos para encontrar essas respostas.
  
 Um insight importante que compartilhamos neste livro é que a engenharia de software pode ser pensada como "programação integrada ao longo do tempo". Que práticas podemos introduzir em nosso código para torná-lo sustentável - capaz de reagir às mudanças necessárias - ao longo de seu ciclo de vida, desde a concepção até a introdução, a manutenção e a descontinuação?

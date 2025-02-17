@@ -32,4 +32,8 @@ Como uma organização toma decisões, com base nas lições de Tempo e Mudança
 ## Comentário:
 
 Acredito que o principio de ter um software robusto e valioso passe pelo que ele deve ter uma escalabilidade, uma boa manutenabilidade onde possa gerar menos custo de producao e manutencao;
-
+______________________________________________________________________________________________________________________________________________________________________________________________________________________
+# Exemplos de Tradeoffs
+- Tempo de desenvolvimento X Qualidade
+- Escalabilidade X Simplicidade
+- Custo X Funcionabilidade
